@@ -9,7 +9,8 @@
     - base
       - rv32：全称/缩写：RV32I Base Integer Instruction Set (`RV32I`)。主要作用：定义 32 位基础整数 ISA、通用寄存器和基础整数指令。来源：Volume I `The RISC-V Instruction Set Manual, Volume I: Unprivileged Architecture`，第 2.1 节。稳定链接：<https://github.com/riscv/riscv-isa-manual/releases/download/riscv-isa-release-cc30642-2026-06-23/riscv-spec.html#rv32>
       - rv64：全称/缩写：RV64I Base Integer Instruction Set (`RV64I`)。主要作用：定义 64 位基础整数 ISA 及 RV64 专有整数指令。来源：Volume I `The RISC-V Instruction Set Manual, Volume I: Unprivileged Architecture`，第 2.2 节。稳定链接：<https://github.com/riscv/riscv-isa-manual/releases/download/riscv-isa-release-cc30642-2026-06-23/riscv-spec.html#rv64>
-      - rv32e：全称/缩写：RV32E and RV64E Base Integer Instruction Sets (`RV32E`/`RV64E`)。主要作用：定义面向小型实现的精简寄存器基础整数 ISA。来源：Volume I `The RISC-V Instruction Set Manual, Volume I: Unprivileged Architecture`，第 2.3 节。稳定链接：<https://github.com/riscv/riscv-isa-manual/releases/download/riscv-isa-release-cc30642-2026-06-23/riscv-spec.html#rv32e>
+      - rv32e：全称/缩写：RV32E Base Integer Instruction Sets (`RV32E`)。主要作用：定义面向小型实现的精简寄存器基础整数 ISA。来源：Volume I `The RISC-V Instruction Set Manual, Volume I: Unprivileged Architecture`，第 2.3 节。稳定链接：<https://github.com/riscv/riscv-isa-manual/releases/download/riscv-isa-release-cc30642-2026-06-23/riscv-spec.html#rv32e>
+      - rv64e：全称/缩写：RV64E Base Integer Instruction Sets (`RV64E`)。主要作用：定义面向小型实现的精简寄存器基础整数 ISA。来源：Volume I `The RISC-V Instruction Set Manual, Volume I: Unprivileged Architecture`，第 2.3 节。稳定链接：<https://github.com/riscv/riscv-isa-manual/releases/download/riscv-isa-release-cc30642-2026-06-23/riscv-spec.html#rv64e>
     - memory-models
       - ztso：全称/缩写：Extension for Total Store Ordering (`Ztso`)。主要作用：在 RVWMO 之外提供更强的总存储排序内存模型。来源：Volume I `The RISC-V Instruction Set Manual, Volume I: Unprivileged Architecture`，第 3.2 节。稳定链接：<https://github.com/riscv/riscv-isa-manual/releases/download/riscv-isa-release-cc30642-2026-06-23/riscv-spec.html#ext:ztso>
     - zi
